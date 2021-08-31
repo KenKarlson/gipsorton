@@ -2,3 +2,10 @@
   margin: 0;
   padding: 0;
 }
+
+
+.header{
+  background-image:url(/assets/img/header_bg.png);
+  width: 100vw;
+  height: 700px;
+}
