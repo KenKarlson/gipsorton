@@ -113,3 +113,90 @@
   color: #ffffff;
   text-shadow: 1px 2px 2px black;
 }
+
+.header-title {
+  max-width: 1280px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-text {
+  width: 498px;
+  height: 410px;
+  margin-top: 104px;
+}
+
+.header-form {
+  width: 355px;
+  height: 410px;
+  margin-top: 104px;
+  background-color: #fff;
+  display: unset;
+}
+
+.bottom-header-text {
+  margin-top: 45px;
+}
+
+.header-price {
+  margin-top: 55px;
+  width: 225px;
+  height: 105px;
+  background-color: #70c849;
+  text-align: center;
+}
+
+.top-text {
+  padding-top: 20px;
+  font-family: 'Proxima Nova', sans-serif;
+  font-size: 18px;
+  line-height: 1.2;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+.bottom-text {
+  font-family: 'Proxima Nova', sans-serif;
+  padding: 10px 0 24px 0;
+  font-size: 18px;
+  line-height: 1.2;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+.imba {
+  font-family: 'Proxima Nova Semibold', sans-serif;
+  /* 'Proxima Nova Semibold',sans-serif;
+padding: 10px 0 24px 0;*/
+  font-size: 25px;
+  line-height: 1.2;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.text-next {
+  margin-top: 30px;
+  text-transform: uppercase;
+  font-family: 'Proxima Nova Bold', sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  color: #292929;
+}
+
+.header-title h1 {
+  font-family: 'Proxima Nova', sans-serif;
+  font-size: 40px;
+  line-height: 58px;
+  font-weight: 700;
+  color: #292929;
+  text-transform: uppercase;
+}
+
+.header-title h2 {
+  font-family: 'Proxima Nova Regular', sans-serif;
+  font-size: 24px;
+  line-height: 1.2;
+  font-weight: 400;
+  color: #292929;
+}
